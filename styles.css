@@ -184,6 +184,7 @@ img {
 
   .cluster-right {
     flex: 1;
+    min-height: 100%;
   }
 
   .cluster-right .card-kira {
